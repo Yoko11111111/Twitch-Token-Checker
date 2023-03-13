@@ -1,6 +1,7 @@
 Disclaimer ⚠️
 
-    The automation of User Discord accounts also known as self-bots is a violation of Discord Terms of Service & Community guidelines and will result in your       account(s) being terminated. Discretion is adviced. I will not be responsible for your actions.
+    The automation of User Twitch accounts also known as self-bots is a violation of Twitch Terms of Service & Community guidelines
+    and will result in your account(s) being terminated. Discretion is adviced. I will not be responsible for your actions.
 
 Features ✅
 
