@@ -10,10 +10,12 @@ Features ✅
     Compatible with all major Operating systems and CPU architectures
 
 How to use 💻
+
     Build from Source or Download from releases
     Input your tokens in "tokens.txt"
 
 Star the Repo ⭐
+
     Please star the repo, it really helps me out and allows me to contribute more.
   
 Other Insteresting Stuff from me
